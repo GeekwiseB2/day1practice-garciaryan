@@ -2,3 +2,7 @@ li {
   list-style-type: none;
   color: #e40007;
 }
+
+.col-md-3 {
+  background-color: blue;
+}
