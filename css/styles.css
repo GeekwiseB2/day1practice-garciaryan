@@ -2,3 +2,17 @@ li {
   list-style-type: none;
   color: #e40007;
 }
+
+/*======MEDIA QUERIES=======*/
+
+@media screen and (max-width: 500px){
+  .col-md-12 {
+    background-color: green !important;
+  }
+}
+
+@media screen and (min-width: 375px){
+  .col-md-12 {
+    background-color: blue;
+  }
+}
